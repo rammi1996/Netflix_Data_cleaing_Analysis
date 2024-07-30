@@ -13,8 +13,9 @@ Populating Missing Values
 
 
 **Data Analysis**
-Count of Movies and TV Shows by Director
-Country with the Highest Number of Comedy Movies
-Director with Maximum Movies Released Each Year
-Average Duration of Movies by Genre
-Directors Who Have Created Both Horror and Comedy Movies
+
+**Count of Movies and TV Shows by Director**
+**Country with the Highest Number of Comedy Movies**
+**Director with Maximum Movies Released Each Year**
+**Average Duration of Movies by Genre**
+**Directors Who Have Created Both Horror and Comedy Movies**
